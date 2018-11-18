@@ -1,4 +1,4 @@
-# Interactive_Graphics
+# Interactive_Graphics Lorenzo Vianello
 
 Robot Manipulator with 7 DOF
 
